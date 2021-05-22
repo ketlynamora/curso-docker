@@ -1,4 +1,3 @@
-
 Professor: Leonardo Moura Leitao
 
 Criação de ambientes profissionais completos com Docker, que é a principal tecnologia de containers do mercado!
@@ -32,8 +31,6 @@ Estrutura:
 Banco de Dados: Postgres
 Frontend: Nginx
 Backend: Python + Redis
-
-
 
 No projeto foram abordados os seguintes pontos:
 
