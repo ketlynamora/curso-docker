@@ -1,3 +1,5 @@
+Docker: ferramenta essencial para desenvolvedores
+
 Professor: Leonardo Moura Leitao
 
 Criação de ambientes profissionais completos com Docker, que é a principal tecnologia de containers do mercado!
