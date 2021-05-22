@@ -1,4 +1,5 @@
 Docker: ferramenta essencial para desenvolvedores
+_________________________________________________
 
 Professor: Leonardo Moura Leitao
 
@@ -17,6 +18,8 @@ Gerenciar conjuntos de micro serviços
 Utilizar ferramentas diversas de integração contínua baseado em containers
 
 Projeto: Cadastro Simples
+_________________________
+
 O compose foi configurado usando 3 serviços (cada um referenciando um containers):
 
 Banco de Dados (usando MongoDB)
@@ -26,6 +29,8 @@ Foi feito o mínimo de código possível para que back e front funcionassem, sen
 
 
 Projeto: Envio de E-mails com Workers
+_____________________________________
+
 Desenvolvimento de solução assíncrona de envio de e-mails de forma escalável.
 
 Estrutura:
